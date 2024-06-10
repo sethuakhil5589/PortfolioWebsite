@@ -15,7 +15,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(images/background.png);
+    background-image: url(images/Baxkground_akhil2.JPG);
     background-size: cover;
     background-position: center;
 }
@@ -72,6 +72,7 @@ nav ul li a:hover::after{
 }
 .header-text h1 span{
     color: #ff004f;
+    font-size: inherit;
 }
 /* ---------------------about-------------------- */
 #about{
